@@ -1,0 +1,41 @@
+Partlist
+
+Exported from FilamentMonitor-1.0.brd at 17/02/2019 15:57
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value                           Package                  Library             Position (mm)         Orientation
+
+3V3      TPSQTP10SQ                      TP10SQ                   testpad             (18.2 34.7)           R0
+BT1                                      BATTERY_16340-HOLDER     ThingySticks        (4.7175 20.5)         MR180
+C1       4.7uF                           0603                     SparkFun-Capacitors (19.09 42.845)        R180
+C2       0.1uF                           0603                     SparkFun-Capacitors (19.09 44.75)         R180
+C5       1.0uF                           0603                     SparkFun-Capacitors (13.225 46.355)       R180
+C6       1.0uF                           0603                     SparkFun-Capacitors (12.99 40.305)        R0
+D0       TPSQTP10SQ                      TP10SQ                   testpad             (2.54 19.685)         R0
+D1       White                           LED-1206                 SparkFun-LED        (30.3 40)             R180
+D2       White                           LED-1206                 SparkFun-LED        (30.265 38.205)       R180
+DISPLAY                                  1X04                     ThingySticks        (48.29 32.6725)       R90
+GND      TPSQTP10SQ                      TP10SQ                   testpad             (2.54 17.78)          R180
+J1                                       JST-2-SMD                SparkFun-Connectors (12.755 3.69)         R180
+J4                                       1X04                     ThingySticks        (10.1 15.82)          R90
+R        TPSQTP10SQ                      TP10SQ                   testpad             (2.54 25.4)           R180
+R1       10k                             0603                     SparkFun-Resistors  (20.795 46.555)       R180
+R2       4.7k                            0603                     SparkFun-Resistors  (31.5725 43.38)       R0
+R3       4.7k                            0603                     SparkFun-Resistors  (31.5725 45.0025)     R0
+R4       1k                              0805                     SparkFun-Resistors  (34.6 40)             R0
+R5       10k                             0603                     SparkFun-Resistors  (37.3 9.4)            R270
+R6       10k                             0603                     SparkFun-Resistors  (29.44 9.46)          R90
+R7       10k                             0603                     SparkFun-Resistors  (31.495 9.445)        R270
+R8       1k                              0805                     SparkFun-Resistors  (34.6175 38.285)      R0
+R9       10k                             0603                     SparkFun-Resistors  (39.6 9.4)            R90
+RX       TPSQTP10SQ                      TP10SQ                   testpad             (2.54 21.59)          R0
+S1       MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches   (4.7 38.1)            R180
+S2       MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches   (4.7 30.6)            R180
+TX       TPSQTP10SQ                      TP10SQ                   testpad             (2.54 23.495)         R0
+U$1      TCS34725FN                      FN-6                     ThingySticks        (25 39)               R90
+U1       VL53L1XSMD                      VL53L1X                  SparkFun-Sensors    (25 45)               R270
+U4       3.3V                            SOT23-5                  SparkFun-IC-Power   (13.45 43.38)         R270
+U6                                       ESP-12E                  kanflo              (36.985 21.5)         R270
